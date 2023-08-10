@@ -1,0 +1,16 @@
+D:\LapTrinhMang\Lab4\TCP\Client\bin\Debug\net5.0\Client.exe
+D:\LapTrinhMang\Lab4\TCP\Client\bin\Debug\net5.0\Client.deps.json
+D:\LapTrinhMang\Lab4\TCP\Client\bin\Debug\net5.0\Client.runtimeconfig.json
+D:\LapTrinhMang\Lab4\TCP\Client\bin\Debug\net5.0\Client.runtimeconfig.dev.json
+D:\LapTrinhMang\Lab4\TCP\Client\bin\Debug\net5.0\Client.dll
+D:\LapTrinhMang\Lab4\TCP\Client\bin\Debug\net5.0\Client.pdb
+D:\LapTrinhMang\Lab4\TCP\Client\obj\Debug\net5.0\Client.csproj.AssemblyReference.cache
+D:\LapTrinhMang\Lab4\TCP\Client\obj\Debug\net5.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhMang\Lab4\TCP\Client\obj\Debug\net5.0\Client.AssemblyInfoInputs.cache
+D:\LapTrinhMang\Lab4\TCP\Client\obj\Debug\net5.0\Client.AssemblyInfo.cs
+D:\LapTrinhMang\Lab4\TCP\Client\obj\Debug\net5.0\Client.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\Lab4\TCP\Client\obj\Debug\net5.0\Client.dll
+D:\LapTrinhMang\Lab4\TCP\Client\obj\Debug\net5.0\refint\Client.dll
+D:\LapTrinhMang\Lab4\TCP\Client\obj\Debug\net5.0\Client.pdb
+D:\LapTrinhMang\Lab4\TCP\Client\obj\Debug\net5.0\Client.genruntimeconfig.cache
+D:\LapTrinhMang\Lab4\TCP\Client\obj\Debug\net5.0\ref\Client.dll

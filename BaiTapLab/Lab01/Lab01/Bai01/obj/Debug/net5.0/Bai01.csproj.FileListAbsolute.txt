@@ -1,0 +1,16 @@
+D:\LapTrinhMang\Lab01\Lab01\Bai01\bin\Debug\net5.0\Bai01.exe
+D:\LapTrinhMang\Lab01\Lab01\Bai01\bin\Debug\net5.0\Bai01.deps.json
+D:\LapTrinhMang\Lab01\Lab01\Bai01\bin\Debug\net5.0\Bai01.runtimeconfig.json
+D:\LapTrinhMang\Lab01\Lab01\Bai01\bin\Debug\net5.0\Bai01.runtimeconfig.dev.json
+D:\LapTrinhMang\Lab01\Lab01\Bai01\bin\Debug\net5.0\Bai01.dll
+D:\LapTrinhMang\Lab01\Lab01\Bai01\bin\Debug\net5.0\Bai01.pdb
+D:\LapTrinhMang\Lab01\Lab01\Bai01\obj\Debug\net5.0\Bai01.csproj.AssemblyReference.cache
+D:\LapTrinhMang\Lab01\Lab01\Bai01\obj\Debug\net5.0\Bai01.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhMang\Lab01\Lab01\Bai01\obj\Debug\net5.0\Bai01.AssemblyInfoInputs.cache
+D:\LapTrinhMang\Lab01\Lab01\Bai01\obj\Debug\net5.0\Bai01.AssemblyInfo.cs
+D:\LapTrinhMang\Lab01\Lab01\Bai01\obj\Debug\net5.0\Bai01.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\Lab01\Lab01\Bai01\obj\Debug\net5.0\Bai01.dll
+D:\LapTrinhMang\Lab01\Lab01\Bai01\obj\Debug\net5.0\refint\Bai01.dll
+D:\LapTrinhMang\Lab01\Lab01\Bai01\obj\Debug\net5.0\Bai01.pdb
+D:\LapTrinhMang\Lab01\Lab01\Bai01\obj\Debug\net5.0\Bai01.genruntimeconfig.cache
+D:\LapTrinhMang\Lab01\Lab01\Bai01\obj\Debug\net5.0\ref\Bai01.dll

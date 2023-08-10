@@ -1,0 +1,16 @@
+D:\LapTrinhMang\Lab3\Bai2_UDP_Client\bin\Debug\net5.0\Bai2_UDP_Client.exe
+D:\LapTrinhMang\Lab3\Bai2_UDP_Client\bin\Debug\net5.0\Bai2_UDP_Client.deps.json
+D:\LapTrinhMang\Lab3\Bai2_UDP_Client\bin\Debug\net5.0\Bai2_UDP_Client.runtimeconfig.json
+D:\LapTrinhMang\Lab3\Bai2_UDP_Client\bin\Debug\net5.0\Bai2_UDP_Client.runtimeconfig.dev.json
+D:\LapTrinhMang\Lab3\Bai2_UDP_Client\bin\Debug\net5.0\Bai2_UDP_Client.dll
+D:\LapTrinhMang\Lab3\Bai2_UDP_Client\bin\Debug\net5.0\Bai2_UDP_Client.pdb
+D:\LapTrinhMang\Lab3\Bai2_UDP_Client\obj\Debug\net5.0\Bai2_UDP_Client.csproj.AssemblyReference.cache
+D:\LapTrinhMang\Lab3\Bai2_UDP_Client\obj\Debug\net5.0\Bai2_UDP_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhMang\Lab3\Bai2_UDP_Client\obj\Debug\net5.0\Bai2_UDP_Client.AssemblyInfoInputs.cache
+D:\LapTrinhMang\Lab3\Bai2_UDP_Client\obj\Debug\net5.0\Bai2_UDP_Client.AssemblyInfo.cs
+D:\LapTrinhMang\Lab3\Bai2_UDP_Client\obj\Debug\net5.0\Bai2_UDP_Client.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\Lab3\Bai2_UDP_Client\obj\Debug\net5.0\Bai2_UDP_Client.dll
+D:\LapTrinhMang\Lab3\Bai2_UDP_Client\obj\Debug\net5.0\refint\Bai2_UDP_Client.dll
+D:\LapTrinhMang\Lab3\Bai2_UDP_Client\obj\Debug\net5.0\Bai2_UDP_Client.pdb
+D:\LapTrinhMang\Lab3\Bai2_UDP_Client\obj\Debug\net5.0\Bai2_UDP_Client.genruntimeconfig.cache
+D:\LapTrinhMang\Lab3\Bai2_UDP_Client\obj\Debug\net5.0\ref\Bai2_UDP_Client.dll

@@ -1,0 +1,16 @@
+D:\LapTrinhMang\BaiTapNhom\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+D:\LapTrinhMang\BaiTapNhom\Server\obj\Debug\netcoreapp3.1\Server.frmServer.resources
+D:\LapTrinhMang\BaiTapNhom\Server\obj\Debug\netcoreapp3.1\Server.csproj.GenerateResource.cache
+D:\LapTrinhMang\BaiTapNhom\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhMang\BaiTapNhom\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\LapTrinhMang\BaiTapNhom\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\LapTrinhMang\BaiTapNhom\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\BaiTapNhom\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\LapTrinhMang\BaiTapNhom\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\LapTrinhMang\BaiTapNhom\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\LapTrinhMang\BaiTapNhom\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\LapTrinhMang\BaiTapNhom\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\LapTrinhMang\BaiTapNhom\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\LapTrinhMang\BaiTapNhom\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\LapTrinhMang\BaiTapNhom\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\LapTrinhMang\BaiTapNhom\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache

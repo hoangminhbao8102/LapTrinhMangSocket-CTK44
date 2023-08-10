@@ -1,0 +1,16 @@
+D:\LapTrinhMang\Lab5\TCPEchoClientThread\bin\Debug\net5.0\TCPEchoClientThread.exe
+D:\LapTrinhMang\Lab5\TCPEchoClientThread\bin\Debug\net5.0\TCPEchoClientThread.deps.json
+D:\LapTrinhMang\Lab5\TCPEchoClientThread\bin\Debug\net5.0\TCPEchoClientThread.runtimeconfig.json
+D:\LapTrinhMang\Lab5\TCPEchoClientThread\bin\Debug\net5.0\TCPEchoClientThread.runtimeconfig.dev.json
+D:\LapTrinhMang\Lab5\TCPEchoClientThread\bin\Debug\net5.0\TCPEchoClientThread.dll
+D:\LapTrinhMang\Lab5\TCPEchoClientThread\bin\Debug\net5.0\TCPEchoClientThread.pdb
+D:\LapTrinhMang\Lab5\TCPEchoClientThread\obj\Debug\net5.0\TCPEchoClientThread.csproj.AssemblyReference.cache
+D:\LapTrinhMang\Lab5\TCPEchoClientThread\obj\Debug\net5.0\TCPEchoClientThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhMang\Lab5\TCPEchoClientThread\obj\Debug\net5.0\TCPEchoClientThread.AssemblyInfoInputs.cache
+D:\LapTrinhMang\Lab5\TCPEchoClientThread\obj\Debug\net5.0\TCPEchoClientThread.AssemblyInfo.cs
+D:\LapTrinhMang\Lab5\TCPEchoClientThread\obj\Debug\net5.0\TCPEchoClientThread.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\Lab5\TCPEchoClientThread\obj\Debug\net5.0\TCPEchoClientThread.dll
+D:\LapTrinhMang\Lab5\TCPEchoClientThread\obj\Debug\net5.0\refint\TCPEchoClientThread.dll
+D:\LapTrinhMang\Lab5\TCPEchoClientThread\obj\Debug\net5.0\TCPEchoClientThread.pdb
+D:\LapTrinhMang\Lab5\TCPEchoClientThread\obj\Debug\net5.0\TCPEchoClientThread.genruntimeconfig.cache
+D:\LapTrinhMang\Lab5\TCPEchoClientThread\obj\Debug\net5.0\ref\TCPEchoClientThread.dll

@@ -1,0 +1,14 @@
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPListener\bin\Debug\netcoreapp3.1\TCPListener.exe
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPListener\bin\Debug\netcoreapp3.1\TCPListener.deps.json
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPListener\bin\Debug\netcoreapp3.1\TCPListener.runtimeconfig.json
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPListener\bin\Debug\netcoreapp3.1\TCPListener.runtimeconfig.dev.json
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPListener\bin\Debug\netcoreapp3.1\TCPListener.dll
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPListener\bin\Debug\netcoreapp3.1\TCPListener.pdb
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPListener\obj\Debug\netcoreapp3.1\TCPListener.csproj.AssemblyReference.cache
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPListener\obj\Debug\netcoreapp3.1\TCPListener.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPListener\obj\Debug\netcoreapp3.1\TCPListener.AssemblyInfoInputs.cache
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPListener\obj\Debug\netcoreapp3.1\TCPListener.AssemblyInfo.cs
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPListener\obj\Debug\netcoreapp3.1\TCPListener.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPListener\obj\Debug\netcoreapp3.1\TCPListener.dll
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPListener\obj\Debug\netcoreapp3.1\TCPListener.pdb
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPListener\obj\Debug\netcoreapp3.1\TCPListener.genruntimeconfig.cache

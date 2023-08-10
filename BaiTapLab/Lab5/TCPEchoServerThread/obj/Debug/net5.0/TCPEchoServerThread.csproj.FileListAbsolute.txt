@@ -1,0 +1,16 @@
+D:\LapTrinhMang\Lab5\TCPEchoServerThread\bin\Debug\net5.0\TCPEchoServerThread.exe
+D:\LapTrinhMang\Lab5\TCPEchoServerThread\bin\Debug\net5.0\TCPEchoServerThread.deps.json
+D:\LapTrinhMang\Lab5\TCPEchoServerThread\bin\Debug\net5.0\TCPEchoServerThread.runtimeconfig.json
+D:\LapTrinhMang\Lab5\TCPEchoServerThread\bin\Debug\net5.0\TCPEchoServerThread.runtimeconfig.dev.json
+D:\LapTrinhMang\Lab5\TCPEchoServerThread\bin\Debug\net5.0\TCPEchoServerThread.dll
+D:\LapTrinhMang\Lab5\TCPEchoServerThread\bin\Debug\net5.0\TCPEchoServerThread.pdb
+D:\LapTrinhMang\Lab5\TCPEchoServerThread\obj\Debug\net5.0\TCPEchoServerThread.csproj.AssemblyReference.cache
+D:\LapTrinhMang\Lab5\TCPEchoServerThread\obj\Debug\net5.0\TCPEchoServerThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhMang\Lab5\TCPEchoServerThread\obj\Debug\net5.0\TCPEchoServerThread.AssemblyInfoInputs.cache
+D:\LapTrinhMang\Lab5\TCPEchoServerThread\obj\Debug\net5.0\TCPEchoServerThread.AssemblyInfo.cs
+D:\LapTrinhMang\Lab5\TCPEchoServerThread\obj\Debug\net5.0\TCPEchoServerThread.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\Lab5\TCPEchoServerThread\obj\Debug\net5.0\TCPEchoServerThread.dll
+D:\LapTrinhMang\Lab5\TCPEchoServerThread\obj\Debug\net5.0\refint\TCPEchoServerThread.dll
+D:\LapTrinhMang\Lab5\TCPEchoServerThread\obj\Debug\net5.0\TCPEchoServerThread.pdb
+D:\LapTrinhMang\Lab5\TCPEchoServerThread\obj\Debug\net5.0\TCPEchoServerThread.genruntimeconfig.cache
+D:\LapTrinhMang\Lab5\TCPEchoServerThread\obj\Debug\net5.0\ref\TCPEchoServerThread.dll

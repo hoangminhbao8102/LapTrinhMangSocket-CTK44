@@ -1,0 +1,16 @@
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPClient\obj\Debug\net5.0\TCPClient.csproj.AssemblyReference.cache
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPClient\obj\Debug\net5.0\TCPClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPClient\obj\Debug\net5.0\TCPClient.AssemblyInfoInputs.cache
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPClient\obj\Debug\net5.0\TCPClient.AssemblyInfo.cs
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPClient\obj\Debug\net5.0\TCPClient.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPClient\bin\Debug\net5.0\TCPClient.exe
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPClient\bin\Debug\net5.0\TCPClient.deps.json
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPClient\bin\Debug\net5.0\TCPClient.runtimeconfig.json
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPClient\bin\Debug\net5.0\TCPClient.runtimeconfig.dev.json
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPClient\bin\Debug\net5.0\TCPClient.dll
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPClient\bin\Debug\net5.0\TCPClient.pdb
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPClient\obj\Debug\net5.0\TCPClient.dll
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPClient\obj\Debug\net5.0\refint\TCPClient.dll
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPClient\obj\Debug\net5.0\TCPClient.pdb
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPClient\obj\Debug\net5.0\TCPClient.genruntimeconfig.cache
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPClient\obj\Debug\net5.0\ref\TCPClient.dll

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TCPListener
+build_property.ProjectDir = D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\TCPListener\

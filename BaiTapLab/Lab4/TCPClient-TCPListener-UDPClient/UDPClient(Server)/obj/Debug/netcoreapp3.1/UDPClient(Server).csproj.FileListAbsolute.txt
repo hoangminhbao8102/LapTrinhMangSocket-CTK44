@@ -1,0 +1,14 @@
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\UDPClient(Server)\bin\Debug\netcoreapp3.1\UDPClient(Server).exe
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\UDPClient(Server)\bin\Debug\netcoreapp3.1\UDPClient(Server).deps.json
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\UDPClient(Server)\bin\Debug\netcoreapp3.1\UDPClient(Server).runtimeconfig.json
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\UDPClient(Server)\bin\Debug\netcoreapp3.1\UDPClient(Server).runtimeconfig.dev.json
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\UDPClient(Server)\bin\Debug\netcoreapp3.1\UDPClient(Server).dll
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\UDPClient(Server)\bin\Debug\netcoreapp3.1\UDPClient(Server).pdb
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\UDPClient(Server)\obj\Debug\netcoreapp3.1\UDPClient(Server).csproj.AssemblyReference.cache
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\UDPClient(Server)\obj\Debug\netcoreapp3.1\UDPClient(Server).GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\UDPClient(Server)\obj\Debug\netcoreapp3.1\UDPClient(Server).AssemblyInfoInputs.cache
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\UDPClient(Server)\obj\Debug\netcoreapp3.1\UDPClient(Server).AssemblyInfo.cs
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\UDPClient(Server)\obj\Debug\netcoreapp3.1\UDPClient(Server).csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\UDPClient(Server)\obj\Debug\netcoreapp3.1\UDPClient(Server).dll
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\UDPClient(Server)\obj\Debug\netcoreapp3.1\UDPClient(Server).pdb
+D:\LapTrinhMang\Lab4\TCPClient-TCPListener-UDPClient\UDPClient(Server)\obj\Debug\netcoreapp3.1\UDPClient(Server).genruntimeconfig.cache
